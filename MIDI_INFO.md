@@ -1,8 +1,12 @@
-The Music Files Must Be MIDI Files, Or Else It Will Not Work.
+# MIDI Files (What They Are And Where To Find Them)
 
-One Of The Best Websites For Game MIDIs Is Kingdom Hearts Insider, With Music From Hundreds Of Games And 10s Of Thousands Of Songs! All Free!
+A "MIDI" File Stands For *Musical Instrument Digital Interface file.* **The Music Files Must Be MIDI Files, Or Else It Will Not Work.**
+
+One Of The Best Websites For Game MIDIs Is ***Kingdom Hearts Insider***, With Music From Hundreds Of Games And 10s Of Thousands Of Songs! All Free!
 
 Link: https://www.khinsider.com/midi
 
 
 (Note: I Do Not Own This Website.)
+
+**Enjoy!**
